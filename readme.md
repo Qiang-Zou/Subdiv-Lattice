@@ -10,8 +10,7 @@
 <br />
 
 
-## !important
-The source code was developed as a byproduct of the projects and methods presented in [1], as well as other related projects carried out in our group [2-7]. It implements a new boundary evaluation method of lattice structures. It solves the challenges of robustness towards generating lattice intersections and boundary shapes. The core idea is to replace strut-strut intersections with subdivision surfaces, and the design of those surfaces mimics the shapes of soap films.
+This code was developed as a byproduct of the projects and methods presented in [1], as well as other related projects carried out in our group [2-7]. It implements a new boundary evaluation method of lattice structures. It solves the challenges of robustness towards generating lattice intersections and boundary shapes. The core idea is to replace strut-strut intersections with subdivision surfaces, and the design of those surfaces mimics the shapes of soap films.
 
 It can be compiled with MSVC 14.0, and run on the operating system Windows 10.
 
@@ -72,3 +71,4 @@ It can be compiled with MSVC 14.0, and run on the operating system Windows 10.
 - [6] Junhao Ding, Qiang Zou, Shuo Qu, Paulo Bartolo, Xu Song, Charlie C. L. Wang, STL-free digital design and manufacturing paradigm for high-precision selective laser melting, CIRP Annals. 2021 70(1): 167-170.
 
 - [7] Shengjun Liu, Tao Liu, Qiang Zou, Weiming Wang, Eugeni L. Doubrovski, Charlie C. L. Wang, Memory-Efficient Modeling and Slicing of Large-Scale Adaptive Lattice Structures, ASME Trans. JCISE. 21.6 (2021): 061003.
+
