@@ -6,6 +6,10 @@
 - Latest Release: 2025.09
 
 
+<img align="left" src="splinegen.png"> 
+<br />
+
+
 ## !important
 The source code was developed as a byproduct of the projects and methods presented in [1], as well as other related projects carried out in our group [2-7]. It implements a new boundary evaluation method of lattice structures. It solves the challenges of robustness towards generating lattice intersections and boundary shapes. The core idea is to replace strut-strut intersections with subdivision surfaces, and the design of those surfaces mimics the shapes of soap films.
 
