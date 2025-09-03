@@ -6,7 +6,7 @@
 - Latest Release: 2025.09
 
 
-<img align="left" src="splinegen.png"> 
+<img align="left" src="subdiv-lattice.png"> 
 <br />
 
 
@@ -70,4 +70,5 @@ It can be compiled with MSVC 14.0, and run on the operating system Windows 10.
 - [4] Qiang Zou, Yunzhu Gao, Guoyue Luo, Sifan Chen, Meta-meshing and triangulating lattice structures at a large scale, Computer-Aided Design (2024).
 - [5] Yaonaiming Zhao, Qiang Zou, Guoyue Luo, Jiayu Wu, Sifan Chen, Depeng Gao, Minghao Xuan, Fuyu Wang, TPMS2STEP: error-controlled and C2 continuity-preserving translation of TPMS models to STEP files based on constrained-PIA, Computer-Aided Design (2024).
 - [6] Junhao Ding, Qiang Zou, Shuo Qu, Paulo Bartolo, Xu Song, Charlie C. L. Wang, STL-free digital design and manufacturing paradigm for high-precision selective laser melting, CIRP Annals. 2021 70(1): 167-170.
+
 - [7] Shengjun Liu, Tao Liu, Qiang Zou, Weiming Wang, Eugeni L. Doubrovski, Charlie C. L. Wang, Memory-Efficient Modeling and Slicing of Large-Scale Adaptive Lattice Structures, ASME Trans. JCISE. 21.6 (2021): 061003.
